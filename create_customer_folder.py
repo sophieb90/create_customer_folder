@@ -7,7 +7,7 @@
 # import modules
 import os
 # specify name of file
-file = 'customers.txt'
+file = 'customers.py'
 # check if text file does not exist
 if not os.path.exists(file):
   # if it doesn't exist stop with error message
